@@ -24,13 +24,13 @@ class AmazonscraperSpider(scrapy.Spider):
 #    start_urls = getUrls(url_base)
 
     def parse(self, response):
-        title = response.xpath('//title/text()').extract()
+        title = response.xpath('//title/text()').extract_first()
         title = title[11:]
 
-        price = response.xpath('//span[@id="priceblock_ourprice"]/text()').extract()
+        price = response.xpath('//span[@id="priceblock_ourprice"]/text()').extract_first()
 	price = price[1:]
 
-        rating = response.xpath('//span[@class="arp-rating-out-of-text"]/text()').extract()
+        rating = response.xpath('//span[@class="arp-rating-out-of-text"]/text()').extract_first()
         rating = rating[0:3]
 
         ranking = response.xpath('//table[@class="a-keyvalue prodDetTable"]/tr/td/span/span/text()').extract_first()
