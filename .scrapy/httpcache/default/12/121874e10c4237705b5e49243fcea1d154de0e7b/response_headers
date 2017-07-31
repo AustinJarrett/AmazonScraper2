@@ -1,0 +1,14 @@
+Content-Type: text/plain
+Server: Server
+Date: Mon, 31 Jul 2017 11:50:39 GMT
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+X-Amz-Request-Id: 1633712C761D7210
+Last-Modified: Thu, 20 Apr 2017 18:54:28 GMT
+Etag: "1df1fd69c69c867d6df3fc48117e1c3b-gzip"
+Accept-Ranges: bytes
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+X-Frame-Options: SAMEORIGIN
+X-Cache: Miss from cloudfront
+Via: 1.1 6eadd6c6c5a53c34c6fce458c34cd790.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: NWLYwxTI8V_1MyAhhy0l3M0AeTTiwbWUvffSxt6o_gdDwS-ftiL5Eg==

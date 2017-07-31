@@ -37,6 +37,12 @@ class AmazonscraperSpider(scrapy.Spider):
         rank = ranking[1:(ranking.find('i')-1)]
         category = ranking[(ranking.find('n')+2):]
 
+        print(title)
+        print(price)
+        print(rating)
+        print(rank)
+        print(category)
+
         item = AmazonscraperItem()
         item['title'] = title
         item['price'] = price

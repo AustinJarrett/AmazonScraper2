@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{d8f797ab-3f48-4757-85f3-6420adaab990}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile />
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId>Global|PythonCore|3.6-32</InterpreterId>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="AmazonScraper\items.py" />
+    <Compile Include="AmazonScraper\middlewares.py" />
+    <Compile Include="AmazonScraper\pipelines.py" />
+    <Compile Include="AmazonScraper\settings.py" />
+    <Compile Include="AmazonScraper\spiders\amazon_scraper.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AmazonScraper\spiders\walmart_scraper.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AmazonScraper\spiders\__init__.py" />
+    <Compile Include="AmazonScraper\__init__.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="AmazonScraper" />
+    <Folder Include="AmazonScraper\spiders" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="Global|PythonCore|3.6-32" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+</Project>
