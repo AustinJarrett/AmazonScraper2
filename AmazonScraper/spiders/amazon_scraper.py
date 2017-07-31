@@ -33,7 +33,7 @@ class AmazonscraperSpider(scrapy.Spider):
         rating[:3]
 
         ranking = response.xpath('//table[@class="a-keyvalue prodDetTable"]/tr/td/span/span/text()').extract_first()
-        ranking[:(ranking.find('(')-1)]
+        ranking[:-2]
 
         rank = ranking[1:(ranking.find('i')-1)]
         category = ranking[(ranking.find('n')+2):]
