@@ -32,7 +32,7 @@ class AmazonscraperSpider(scrapy.Spider):
         rating = response.xpath('//span[@class="arp-rating-out-of-text"]/text()').extract()
         rating[:3]
 
-        ranking = response.xpath('//table[@class="a-keyvalue prodDetTable"]/tr/td/span/span/text()').extract()
+        ranking = response.xpath('//table[@class="a-keyvalue prodDetTable"]/tr/td/span/span/text()').extract_first()
         ranking[:(ranking.find('(')-1)]
 
         rank = ranking[1:(ranking.find('i')-1)]
