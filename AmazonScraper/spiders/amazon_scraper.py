@@ -1,16 +1,16 @@
 import scrapy
 from AmazonScraper.items import AmazonscraperItem
 import datetime
-import pymssql 
+#import pymssql 
 
-def getUrls(url_base):
-    conn = pymssql.connect("Data Source=buffalo;User id=pidMT; Password=Mawu4230; Connection Timeout=5000")
-    cursor = conn.cursor()
-    cursor.execute("USE [eCommerce] SELECT [ASIN] FROM [eCommerce].[dbo].[Amazon_ASINs]")
-    urls=[]
-    for row in cursor:
-        urls.append(url_base + row[0])
-    return urls
+#def getUrls(url_base):
+#    conn = pymssql.connect("Data Source=buffalo;User id=pidMT; Password=Mawu4230; Connection Timeout=5000")
+#    cursor = conn.cursor()
+#    cursor.execute("USE [eCommerce] SELECT [ASIN] FROM [eCommerce].[dbo].[Amazon_ASINs]")
+#    urls=[]
+#    for row in cursor:
+#        urls.append(url_base + row[0])
+#    return urls
 
 def getTimestamp():
 	return datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
@@ -20,7 +20,7 @@ class AmazonscraperSpider(scrapy.Spider):
     allowed_domains = ['amazon.com']
     url_base = 'https://www.amazon.com/dp/'
 
-    start_urls = getUrls(url_base)
+#    start_urls = getUrls(url_base)
 
     def parse(self, response):
         title = response.xpath('//title/text()').extract()
