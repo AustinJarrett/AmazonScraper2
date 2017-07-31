@@ -19,6 +19,7 @@ class AmazonscraperSpider(scrapy.Spider):
     name = "amazonscraper"
     allowed_domains = ['amazon.com']
     url_base = 'https://www.amazon.com/dp/'
+    start_urls = {"https://www.amazon.com/dp/B003QA4642"}
 
 #    start_urls = getUrls(url_base)
 
