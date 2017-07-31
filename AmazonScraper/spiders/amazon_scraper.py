@@ -31,7 +31,7 @@ class AmazonscraperSpider(scrapy.Spider):
 	price = price[1:]
 
         rating = response.xpath('//span[@class="arp-rating-out-of-text"]/text()').extract()
-        rating = rating[:3]
+        rating = rating[0:3]
 
         ranking = response.xpath('//table[@class="a-keyvalue prodDetTable"]/tr/td/span/span/text()').extract_first()
         ranking = ranking[:-2]
