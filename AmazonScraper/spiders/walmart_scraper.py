@@ -1,16 +1,16 @@
 import scrapy
 from AmazonScraper.items import WalmartscraperItem
 import datetime
-#import pymssql 
+from pymongo import MongoClient
 
-#def getUrls(url_base):
-#    conn = pymssql.connect("Data Source=buffalo;User id=pidMT; Password=Mawu4230; Connection Timeout=5000")
-#    cursor = conn.cursor()
-#    cursor.execute("USE [eCommerce] SELECT [ASIN] FROM [eCommerce].[dbo].[Amazon_ASINs]")
-#    urls=[]
-#    for row in cursor:
-#        urls.append(url_base + row[0])
-#    return urls
+def getUrls(url_base):
+    client = MongoClient('mongodb://mturner:Harvest2016@saecomm-shard-00-00-5ilbm.mongodb.net:27017,saecomm-shard-00-01-5ilbm.mongodb.net:27017,saecomm-shard-00-02-5ilbm.mongodb.net:27017/Walmart?ssl=true&replicaSet=saecomm-shard-0&authSource=admin')
+    db = client.walmart
+    urls=[]
+    ids = list(db.WalmartItemsToScrape.find())
+    for id in ids:
+        urls.append(url_base + id['id'])
+    return urls
 
 def getTimestamp():
 	return datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
@@ -20,7 +20,7 @@ class AmazonscraperSpider(scrapy.Spider):
     allowed_domains = ['walmart.com']
     url_base = 'https://www.walmart.com/ip/'
 
-#    start_urls = getUrls(url_base)
+    start_urls = getUrls(url_base)
 
     def parse(self, response):
         title = response.xpath('//title/text()').extract_first()

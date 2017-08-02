@@ -6,6 +6,18 @@
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
 
-class AmazonscraperPipeline(object):
+from pymongo import MongoClient
+from scrapy.conf import settings
+import logging
+
+
+class MongoPipeline(object):
+    def __init__(self):
+		connection = MongoClient(settings['MONGODB_HOST'], settings['MONGODB_PORT'])
+		self.db = connection[settings['MONGODB_DATABASE']]
+        self.collection = db[settings['MONGODB_COLLECTION']]
+		
     def process_item(self, item, spider):
-        return item
+		collection = self.db[type(item).__name__.lower()]
+		logging.info(collection.insert(dict(item)))
+		return item
