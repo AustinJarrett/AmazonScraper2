@@ -13,7 +13,7 @@ import logging
 
 class MongoPipeline(object):
     def __init__(self):
-		connection = MongoClient(settings['MONGODB_HOST'], settings['MONGODB_PORT'])
+		connection = MongoClient(settings['MONGODB_HOST'])
 		self.db = connection[settings['MONGODB_DATABASE']]
         self.collection = db[settings['MONGODB_COLLECTION']]
 		
