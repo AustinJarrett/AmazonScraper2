@@ -1,5 +1,5 @@
 projects:
-  default: 12345
+  default: AmazonScraper
   prod: 33333
 requirements:
  file:requirements.txt
