@@ -8,6 +8,7 @@
 import scrapy
 
 class WalmartscraperItem(scrapy.Item):
+    id = scrapy.Field()
     title = scrapy.Field()
     price = scrapy.Field()
     rating = scrapy.Field()  

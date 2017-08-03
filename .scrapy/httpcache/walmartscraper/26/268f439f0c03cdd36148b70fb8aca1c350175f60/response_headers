@@ -1,13 +1,13 @@
-Expires: Thu, 03 Aug 2017 14:03:00 GMT
-Set-Cookie: AID=wmlspartner%3D0%3Areflectorid%3D0000000000000000000000%3Alastupd%3D1501768980008; Max-Age=315360000; Expires=Sun, 01 Aug 2027 14:03:00 GMT; HttpOnly; Domain=www.walmart.com; Path=/
-Set-Cookie: com.wm.reflector="reflectorid:0000000000000000000000@lastupd:1501768980009@firstcreate:1501768920833"; Max-Age=315360000; Expires=Sun, 01 Aug 2027 14:03:00 GMT; Domain=.walmart.com; Path=/
-Set-Cookie: vtc=QnvSRfym5UNYewbiBeZgf0;Path=/;Domain=.walmart.com;Expires=Wed, 04 Aug 2027 02:03:00 GMT;Max-Age=315576000
-Set-Cookie: bstc=QnvSRfym5UNYewbiBeZgf0;Path=/;Domain=.walmart.com;Expires=Thu, 03 Aug 2017 14:33:00 GMT;Max-Age=1800
-Set-Cookie: exp=1%2B1501768920%2BQnvSRfym5UNYewbiBeZgf0%2B0%2BBASPM.x4bqf|JWa9b.brzzw|VDB_t.iwu9j|gPk52.-P1gG|iqfWU.6Qe8B; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 14:33:00 GMT; Max-Age=1800
-Set-Cookie: exp-ck=x4bqfbrzzwiwu9j-P1gG6Qe8B; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 14:33:00 GMT; Max-Age=1800
-Set-Cookie: akavpau_p3=1501769580~id=b157047928403f3b659b401cda05cb83; Path=/
-Set-Cookie: akavpau_p3=1501769580~id=b157047928403f3b659b401cda05cb83; Path=/
-Wm_Qos.Correlation_Id: ff0c1fd8-408-15da86816270d3,ff0c1fd8-408-15da8681627e53,ff0c1fd8-408-15da8681627e53
+Expires: Thu, 03 Aug 2017 15:46:16 GMT
+Set-Cookie: AID=wmlspartner%3D0%3Areflectorid%3D0000000000000000000000%3Alastupd%3D1501775176327; Max-Age=315360000; Expires=Sun, 01 Aug 2027 15:46:16 GMT; HttpOnly; Domain=www.walmart.com; Path=/
+Set-Cookie: com.wm.reflector="reflectorid:0000000000000000000000@lastupd:1501775176327@firstcreate:1501775087398"; Max-Age=315360000; Expires=Sun, 01 Aug 2027 15:46:16 GMT; Domain=.walmart.com; Path=/
+Set-Cookie: vtc=a-Ag-KGps2S_97FytrWd38;Path=/;Domain=.walmart.com;Expires=Wed, 04 Aug 2027 03:46:16 GMT;Max-Age=315576000
+Set-Cookie: bstc=a-Ag-KGps2S_97FytrWd38;Path=/;Domain=.walmart.com;Expires=Thu, 03 Aug 2017 16:16:16 GMT;Max-Age=1800
+Set-Cookie: exp=1%2B1501775087%2Ba-Ag-KGps2S_97FytrWd38%2B0%2BBASPM.x4bqf|JWa9b.9Dq6I|RRub2.PSC29|VDB_t.iwu9j|iqfWU.6Qe8B; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 16:16:16 GMT; Max-Age=1800
+Set-Cookie: exp-ck=x4bqf9Dq6IPSC29iwu9j6Qe8B; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 16:16:16 GMT; Max-Age=1800
+Set-Cookie: akavpau_p3=1501775776~id=b77baf5dee4f2a787a3377686861df4a; Path=/
+Set-Cookie: akavpau_p3=1501775776~id=b77baf5dee4f2a787a3377686861df4a; Path=/
+Wm_Qos.Correlation_Id: d764f080-bfb-15da8c6a286d79,d764f080-bfb-15da8c6a286142,d764f080-bfb-15da8c6a286142
 Accept-Ranges: bytes
 Strict-Transport-Security: max-age=86400
 Origin-Cc: no-cache
@@ -15,7 +15,7 @@ Cache-Control: max-age=0, no-cache, no-store
 Location: /ip/Tarn-X-Tarnish-Remover-Silver-Polish-12-oz/38753598
 Pragma: no-cache
 X-Tb: 0
-Date: Thu, 03 Aug 2017 14:03:00 GMT
+Date: Thu, 03 Aug 2017 15:46:16 GMT
 Origin-Ex: 
 Content-Type: text/plain; charset=utf-8
 Ak-Product-Gtm: 1

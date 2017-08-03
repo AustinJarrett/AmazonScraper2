@@ -1,0 +1,19 @@
+Wm_Qos.Correlation_Id: 3f701d35-25b-15da8c7ac8d11a,3f701d35-25b-15da8c7ac8deab,3f701d35-25b-15da8c7ac8deab
+Content-Encoding: gzip
+Set-Cookie: AID=wmlspartner%3D0%3Areflectorid%3D0000000000000000000000%3Alastupd%3D1501775244430; Max-Age=315360000; Expires=Sun, 01 Aug 2027 15:47:24 GMT; HttpOnly; Domain=www.walmart.com; Path=/
+Set-Cookie: com.wm.reflector="reflectorid:0000000000000000000000@lastupd:1501775244430@firstcreate:1501775128052"; Max-Age=315360000; Expires=Sun, 01 Aug 2027 15:47:24 GMT; Domain=.walmart.com; Path=/
+Set-Cookie: akavpau_p3=1501775844~id=0e5dc027b71398b0bf1bf1bd7019e8ab; Path=/
+Set-Cookie: akavpau_p3=1501775844~id=0e5dc027b71398b0bf1bf1bd7019e8ab; Path=/
+Accept-Ranges: bytes
+Expires: Thu, 03 Aug 2017 15:47:24 GMT
+Vary: Accept-Encoding
+X-Tb-Originstatus: 500
+Server: nginx
+Origin-Cc: no-cache
+X-Tb-Error: DebugInfoDisabled
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Ak-Product-Gtm: 1
+Date: Thu, 03 Aug 2017 15:47:24 GMT
+Origin-Ex: 
+Content-Type: text/html; charset=utf-8

@@ -1,14 +1,14 @@
-Expires: Thu, 03 Aug 2017 14:02:01 GMT
-Set-Cookie: AID=wmlspartner%3D0%3Areflectorid%3D0000000000000000000000%3Alastupd%3D1501768921497; Max-Age=315360000; Expires=Sun, 01 Aug 2027 14:02:01 GMT; HttpOnly; Domain=www.walmart.com; Path=/
-Set-Cookie: com.wm.reflector="reflectorid:0000000000000000000000@lastupd:1501768921497@firstcreate:1501768921497"; Max-Age=315360000; Expires=Sun, 01 Aug 2027 14:02:01 GMT; Domain=.walmart.com; Path=/
-Set-Cookie: vtc=VQ1dmlaqINarxylA7sIZfA;Path=/;Domain=.walmart.com;Expires=Wed, 04 Aug 2027 02:02:01 GMT;Max-Age=315576000
-Set-Cookie: bstc=VQ1dmlaqINarxylA7sIZfA;Path=/;Domain=.walmart.com;Expires=Thu, 03 Aug 2017 14:32:01 GMT;Max-Age=1800
-Set-Cookie: exp=0%2B1501768921%2BVQ1dmlaqINarxylA7sIZfA%2B0%2BBASPM.x4bqf|JWa9b.brzzw|RRub2.TefIJ|VDB_t.iwu9j|iqfWU.wWTwM; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 14:32:01 GMT; Max-Age=1800
-Set-Cookie: midasABTest=ADSP051702; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 14:32:01 GMT; Max-Age=1800
-Set-Cookie: exp-ck=x4bqfbrzzwTefIJiwu9jwWTwM; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 14:32:01 GMT; Max-Age=1800
-Set-Cookie: akavpau_p3=1501769521~id=5f3bf4d33035f6b785c41657144c9c52; Path=/
-Set-Cookie: akavpau_p3=1501769521~id=5f3bf4d33035f6b785c41657144c9c52; Path=/
-Wm_Qos.Correlation_Id: 904ca3b0-1bb-15da8673198e6c,904ca3b0-1bb-15da8673198899,904ca3b0-1bb-15da8673198899
+Expires: Thu, 03 Aug 2017 15:44:47 GMT
+Set-Cookie: AID=wmlspartner%3D0%3Areflectorid%3D0000000000000000000000%3Alastupd%3D1501775087398; Max-Age=315360000; Expires=Sun, 01 Aug 2027 15:44:47 GMT; HttpOnly; Domain=www.walmart.com; Path=/
+Set-Cookie: com.wm.reflector="reflectorid:0000000000000000000000@lastupd:1501775087398@firstcreate:1501775087398"; Max-Age=315360000; Expires=Sun, 01 Aug 2027 15:44:47 GMT; Domain=.walmart.com; Path=/
+Set-Cookie: vtc=a-Ag-KGps2S_97FytrWd38;Path=/;Domain=.walmart.com;Expires=Wed, 04 Aug 2027 03:44:47 GMT;Max-Age=315576000
+Set-Cookie: bstc=a-Ag-KGps2S_97FytrWd38;Path=/;Domain=.walmart.com;Expires=Thu, 03 Aug 2017 16:14:47 GMT;Max-Age=1800
+Set-Cookie: exp=0%2B1501775087%2Ba-Ag-KGps2S_97FytrWd38%2B0%2BBASPM.x4bqf|JWa9b.9Dq6I|RRub2.PSC29|VDB_t.iwu9j|iqfWU.6Qe8B; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 16:14:47 GMT; Max-Age=1800
+Set-Cookie: midasABTest=ADSP051701; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 16:14:47 GMT; Max-Age=1800
+Set-Cookie: exp-ck=x4bqf9Dq6IPSC29iwu9j6Qe8B; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 16:14:47 GMT; Max-Age=1800
+Set-Cookie: akavpau_p3=1501775687~id=2e6366f55c8c2d3bce03a96af1145bb1; Path=/
+Set-Cookie: akavpau_p3=1501775687~id=2e6366f55c8c2d3bce03a96af1145bb1; Path=/
+Wm_Qos.Correlation_Id: daeed9ad-b5b-15da8c547251e5,daeed9ad-b5b-15da8c5472518e,daeed9ad-b5b-15da8c5472518e
 Accept-Ranges: bytes
 Strict-Transport-Security: max-age=86400
 Origin-Cc: no-cache
@@ -16,7 +16,7 @@ Cache-Control: max-age=0, no-cache, no-store
 Location: /ip/Splat-Fire-Ombre-Semi-Permanent-Hair-Dye-for-All-Hair-Colors/43269885
 Pragma: no-cache
 X-Tb: 0
-Date: Thu, 03 Aug 2017 14:02:01 GMT
+Date: Thu, 03 Aug 2017 15:44:47 GMT
 Origin-Ex: 
 Content-Type: text/plain; charset=utf-8
 Ak-Product-Gtm: 1

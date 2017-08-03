@@ -1,14 +1,14 @@
-Expires: Thu, 03 Aug 2017 14:02:00 GMT
-Set-Cookie: AID=wmlspartner%3D0%3Areflectorid%3D0000000000000000000000%3Alastupd%3D1501768920833; Max-Age=315360000; Expires=Sun, 01 Aug 2027 14:02:00 GMT; HttpOnly; Domain=www.walmart.com; Path=/
-Set-Cookie: com.wm.reflector="reflectorid:0000000000000000000000@lastupd:1501768920833@firstcreate:1501768920833"; Max-Age=315360000; Expires=Sun, 01 Aug 2027 14:02:00 GMT; Domain=.walmart.com; Path=/
-Set-Cookie: vtc=QnvSRfym5UNYewbiBeZgf0;Path=/;Domain=.walmart.com;Expires=Wed, 04 Aug 2027 02:02:00 GMT;Max-Age=315576000
-Set-Cookie: bstc=QnvSRfym5UNYewbiBeZgf0;Path=/;Domain=.walmart.com;Expires=Thu, 03 Aug 2017 14:32:00 GMT;Max-Age=1800
-Set-Cookie: exp=0%2B1501768920%2BQnvSRfym5UNYewbiBeZgf0%2B0%2BBASPM.x4bqf|JWa9b.brzzw|VDB_t.iwu9j|gPk52.-P1gG|iqfWU.6Qe8B; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 14:32:00 GMT; Max-Age=1800
-Set-Cookie: midasABTest=ADSP051702; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 14:32:00 GMT; Max-Age=1800
-Set-Cookie: exp-ck=x4bqfbrzzwiwu9j-P1gG6Qe8B; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 14:32:00 GMT; Max-Age=1800
-Set-Cookie: akavpau_p3=1501769520~id=7233d65bf157df0460e1edd26548ac21; Path=/
-Set-Cookie: akavpau_p3=1501769520~id=7233d65bf157df0460e1edd26548ac21; Path=/
-Wm_Qos.Correlation_Id: 80cc00d2-240-15da8672f0036d,80cc00d2-240-15da8672f0032e,80cc00d2-240-15da8672f0032e
+Expires: Thu, 03 Aug 2017 15:44:53 GMT
+Set-Cookie: AID=wmlspartner%3D0%3Areflectorid%3D0000000000000000000000%3Alastupd%3D1501775093595; Max-Age=315360000; Expires=Sun, 01 Aug 2027 15:44:53 GMT; HttpOnly; Domain=www.walmart.com; Path=/
+Set-Cookie: com.wm.reflector="reflectorid:0000000000000000000000@lastupd:1501775093595@firstcreate:1501775093595"; Max-Age=315360000; Expires=Sun, 01 Aug 2027 15:44:53 GMT; Domain=.walmart.com; Path=/
+Set-Cookie: vtc=SQQL3wrkAvS6XVCg0QI2lE;Path=/;Domain=.walmart.com;Expires=Wed, 04 Aug 2027 03:44:53 GMT;Max-Age=315576000
+Set-Cookie: bstc=SQQL3wrkAvS6XVCg0QI2lE;Path=/;Domain=.walmart.com;Expires=Thu, 03 Aug 2017 16:14:53 GMT;Max-Age=1800
+Set-Cookie: exp=0%2B1501775093%2BSQQL3wrkAvS6XVCg0QI2lE%2B0%2BBASPM.x4bqf|JWa9b.3KDaH|RRub2.PSC29|VDB_t.iwu9j|iqfWU.wWTwM; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 16:14:53 GMT; Max-Age=1800
+Set-Cookie: midasABTest=ADSP051700; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 16:14:53 GMT; Max-Age=1800
+Set-Cookie: exp-ck=x4bqf3KDaHPSC29iwu9jwWTwM; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 16:14:53 GMT; Max-Age=1800
+Set-Cookie: akavpau_p3=1501775693~id=699bba8d2a52dbdecf0dc395f3346fda; Path=/
+Set-Cookie: akavpau_p3=1501775693~id=699bba8d2a52dbdecf0dc395f3346fda; Path=/
+Wm_Qos.Correlation_Id: 51d91324-5cb-15da8c55f59231,51d91324-5cb-15da8c55f5936b,51d91324-5cb-15da8c55f5936b
 Accept-Ranges: bytes
 Strict-Transport-Security: max-age=86400
 Origin-Cc: no-cache
@@ -16,7 +16,7 @@ Cache-Control: max-age=0, no-cache, no-store
 Location: /ip/Blistex-Blissful-Butters-Lip-Protectant-Sunscreen-SPF-15-0-15-oz/46500178
 Pragma: no-cache
 X-Tb: 0
-Date: Thu, 03 Aug 2017 14:02:00 GMT
+Date: Thu, 03 Aug 2017 15:44:53 GMT
 Origin-Ex: 
 Content-Type: text/plain; charset=utf-8
 Ak-Product-Gtm: 1

@@ -1,13 +1,13 @@
-Expires: Thu, 03 Aug 2017 14:02:59 GMT
-Set-Cookie: AID=wmlspartner%3D0%3Areflectorid%3D0000000000000000000000%3Alastupd%3D1501768979415; Max-Age=315360000; Expires=Sun, 01 Aug 2027 14:02:59 GMT; HttpOnly; Domain=www.walmart.com; Path=/
-Set-Cookie: com.wm.reflector="reflectorid:0000000000000000000000@lastupd:1501768979415@firstcreate:1501768901808"; Max-Age=315360000; Expires=Sun, 01 Aug 2027 14:02:59 GMT; Domain=.walmart.com; Path=/
-Set-Cookie: vtc=WvfIJAAseVSvNX0rSyeuRU;Path=/;Domain=.walmart.com;Expires=Wed, 04 Aug 2027 02:02:59 GMT;Max-Age=315576000
-Set-Cookie: bstc=WvfIJAAseVSvNX0rSyeuRU;Path=/;Domain=.walmart.com;Expires=Thu, 03 Aug 2017 14:32:59 GMT;Max-Age=1800
-Set-Cookie: exp=1%2B1501768901%2BWvfIJAAseVSvNX0rSyeuRU%2B0%2BBASPM.jHI6d|JWa9b.3KDaH|VDB_t.W-_fQ|gPk52.UJUzM|iqfWU.wWTwM|thCaU.AXmLd; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 14:32:59 GMT; Max-Age=1800
-Set-Cookie: exp-ck=jHI6d3KDaHW-_fQUJUzMwWTwMAXmLd; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 14:32:59 GMT; Max-Age=1800
-Set-Cookie: akavpau_p3=1501769579~id=8c0435d12da6a6f57e5509bc92fe6c56; Path=/
-Set-Cookie: akavpau_p3=1501769579~id=8c0435d12da6a6f57e5509bc92fe6c56; Path=/
-Wm_Qos.Correlation_Id: feea1f6d-2df-15da86813d6bed,feea1f6d-2df-15da86813d60d2,feea1f6d-2df-15da86813d60d2
+Expires: Thu, 03 Aug 2017 15:46:10 GMT
+Set-Cookie: AID=wmlspartner%3D0%3Areflectorid%3D0000000000000000000000%3Alastupd%3D1501775170712; Max-Age=315360000; Expires=Sun, 01 Aug 2027 15:46:10 GMT; HttpOnly; Domain=www.walmart.com; Path=/
+Set-Cookie: com.wm.reflector="reflectorid:0000000000000000000000@lastupd:1501775170712@firstcreate:1501775074339"; Max-Age=315360000; Expires=Sun, 01 Aug 2027 15:46:10 GMT; Domain=.walmart.com; Path=/
+Set-Cookie: vtc=V4ev1_ej-zJr4vEM1mzPIY;Path=/;Domain=.walmart.com;Expires=Wed, 04 Aug 2027 03:46:10 GMT;Max-Age=315576000
+Set-Cookie: bstc=V4ev1_ej-zJr4vEM1mzPIY;Path=/;Domain=.walmart.com;Expires=Thu, 03 Aug 2017 16:16:10 GMT;Max-Age=1800
+Set-Cookie: exp=1%2B1501775074%2BV4ev1_ej-zJr4vEM1mzPIY%2B0%2BBASPM.x4bqf|JWa9b.3KDaH|RRub2.PSC29|VDB_t.iwu9j|iqfWU.wWTwM|thCaU.AXmLd; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 16:16:10 GMT; Max-Age=1800
+Set-Cookie: exp-ck=x4bqf3KDaHPSC29iwu9jwWTwMAXmLd; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 16:16:10 GMT; Max-Age=1800
+Set-Cookie: akavpau_p3=1501775770~id=d4d337216a718554611d9db31d3ce9d9; Path=/
+Set-Cookie: akavpau_p3=1501775770~id=d4d337216a718554611d9db31d3ce9d9; Path=/
+Wm_Qos.Correlation_Id: 894ba907-7bf-15da8c68c97583,894ba907-7bf-15da8c68c977e7,894ba907-7bf-15da8c68c977e7
 Accept-Ranges: bytes
 Strict-Transport-Security: max-age=86400
 Origin-Cc: no-cache
@@ -15,7 +15,7 @@ Cache-Control: max-age=0, no-cache, no-store
 Location: /ip/Stridex-Maximum-Strength-Alcohol-Free-2-Salicylic-Acid-Acne-Pads-90-count/10791016
 Pragma: no-cache
 X-Tb: 0
-Date: Thu, 03 Aug 2017 14:02:59 GMT
+Date: Thu, 03 Aug 2017 15:46:10 GMT
 Origin-Ex: 
 Content-Type: text/plain; charset=utf-8
 Ak-Product-Gtm: 1

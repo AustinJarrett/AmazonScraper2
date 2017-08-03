@@ -1,14 +1,14 @@
-Expires: Thu, 03 Aug 2017 14:02:15 GMT
-Set-Cookie: AID=wmlspartner%3D0%3Areflectorid%3D0000000000000000000000%3Alastupd%3D1501768935762; Max-Age=315360000; Expires=Sun, 01 Aug 2027 14:02:15 GMT; HttpOnly; Domain=www.walmart.com; Path=/
-Set-Cookie: com.wm.reflector="reflectorid:0000000000000000000000@lastupd:1501768935763@firstcreate:1501768935763"; Max-Age=315360000; Expires=Sun, 01 Aug 2027 14:02:15 GMT; Domain=.walmart.com; Path=/
-Set-Cookie: vtc=aSEZ26V-wlfONLGTEgvozw;Path=/;Domain=.walmart.com;Expires=Wed, 04 Aug 2027 02:02:15 GMT;Max-Age=315576000
-Set-Cookie: bstc=aSEZ26V-wlfONLGTEgvozw;Path=/;Domain=.walmart.com;Expires=Thu, 03 Aug 2017 14:32:15 GMT;Max-Age=1800
-Set-Cookie: exp=0%2B1501768935%2BaSEZ26V-wlfONLGTEgvozw%2B0%2BBASPM.jHI6d|JWa9b.brzzw|RRub2.TefIJ|VDB_t.iwu9j|iqfWU.wWTwM; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 14:32:15 GMT; Max-Age=1800
-Set-Cookie: midasABTest=ADSP051702; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 14:32:15 GMT; Max-Age=1800
-Set-Cookie: exp-ck=jHI6dbrzzwTefIJiwu9jwWTwM; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 14:32:15 GMT; Max-Age=1800
-Set-Cookie: akavpau_p3=1501769535~id=a4f354a54c2b5712433d6605464eba14; Path=/
-Set-Cookie: akavpau_p3=1501769535~id=a4f354a54c2b5712433d6605464eba14; Path=/
-Wm_Qos.Correlation_Id: 277c0a82-6cf-15da8676952837,277c0a82-6cf-15da867695202b,277c0a82-6cf-15da867695202b
+Expires: Thu, 03 Aug 2017 15:45:14 GMT
+Set-Cookie: AID=wmlspartner%3D0%3Areflectorid%3D0000000000000000000000%3Alastupd%3D1501775114213; Max-Age=315360000; Expires=Sun, 01 Aug 2027 15:45:14 GMT; HttpOnly; Domain=www.walmart.com; Path=/
+Set-Cookie: com.wm.reflector="reflectorid:0000000000000000000000@lastupd:1501775114213@firstcreate:1501775114213"; Max-Age=315360000; Expires=Sun, 01 Aug 2027 15:45:14 GMT; Domain=.walmart.com; Path=/
+Set-Cookie: vtc=b0WbeHUSD4B3W86vkFd4jQ;Path=/;Domain=.walmart.com;Expires=Wed, 04 Aug 2027 03:45:14 GMT;Max-Age=315576000
+Set-Cookie: bstc=b0WbeHUSD4B3W86vkFd4jQ;Path=/;Domain=.walmart.com;Expires=Thu, 03 Aug 2017 16:15:14 GMT;Max-Age=1800
+Set-Cookie: exp=0%2B1501775114%2Bb0WbeHUSD4B3W86vkFd4jQ%2B0%2BBASPM.jHI6d|JWa9b.brzzw|VDB_t.W-_fQ|iqfWU.EMqbp; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 16:15:14 GMT; Max-Age=1800
+Set-Cookie: midasABTest=ADSP051702; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 16:15:14 GMT; Max-Age=1800
+Set-Cookie: exp-ck=jHI6dbrzzwW-_fQEMqbp; Path=/; Domain=walmart.com; Expires=Thu, 03 Aug 2017 16:15:14 GMT; Max-Age=1800
+Set-Cookie: akavpau_p3=1501775714~id=6c5a68e74006a9b301e7b97984f2188c; Path=/
+Set-Cookie: akavpau_p3=1501775714~id=6c5a68e74006a9b301e7b97984f2188c; Path=/
+Wm_Qos.Correlation_Id: da5ebc3b-93b-15da8c5afe44f2,da5ebc3b-93b-15da8c5afe4f1a,da5ebc3b-93b-15da8c5afe4f1a
 Accept-Ranges: bytes
 Strict-Transport-Security: max-age=86400
 Origin-Cc: no-cache
@@ -16,7 +16,7 @@ Cache-Control: max-age=0, no-cache, no-store
 Location: /ip/Tru-Ray-White-Sulphite-Construction-Paper-9-x-12-30-Sheet-Pack/45910116
 Pragma: no-cache
 X-Tb: 0
-Date: Thu, 03 Aug 2017 14:02:15 GMT
+Date: Thu, 03 Aug 2017 15:45:14 GMT
 Origin-Ex: 
 Content-Type: text/plain; charset=utf-8
 Ak-Product-Gtm: 1

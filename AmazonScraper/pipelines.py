@@ -13,11 +13,9 @@ import logging
 
 class MongoPipeline(object):
     def __init__(self):
-		connection = MongoClient(settings['MONGODB_HOST'])
-		self.db = connection[settings['MONGODB_DATABASE']]
-        self.collection = db[settings['MONGODB_COLLECTION']]
+		connection = MongoClient('mongodb://mturner:Harvest2016@saecomm-shard-00-00-5ilbm.mongodb.net:27017,saecomm-shard-00-01-5ilbm.mongodb.net:27017,saecomm-shard-00-02-5ilbm.mongodb.net:27017/Walmart?ssl=true&replicaSet=saecomm-shard-0&authSource=admin')
+		self.db = connection['Walmart']
 		
     def process_item(self, item, spider):
-		collection = self.db[type(item).__name__.lower()]
-		logging.info(collection.insert(dict(item)))
+		self.db.Walmart_Items.insert(dict(item))
 		return item

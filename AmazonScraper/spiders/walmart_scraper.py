@@ -28,8 +28,11 @@ class AmazonscraperSpider(scrapy.Spider):
     start_urls = getUrls(url_base)
 
     def parse(self, response):
+        id = response.xpath('//a[@class="hide-content-m"]/@href').extract_first()
+        id = id[18:]
+
         title = response.xpath('//title/text()').extract_first()
-        title[:-14]
+        title = title[:-14]
 
         dollars = response.xpath('//span[@class="Price-characteristic"]/text()').extract_first()
         cents = response.xpath('//span[@class="Price-mantissa"]/text()').extract_first()
@@ -38,7 +41,8 @@ class AmazonscraperSpider(scrapy.Spider):
         rating = response.xpath('//span[@class="ReviewsHeader-ratingPrefix"]/text()').extract_first()
 
 
-        item = AmazonscraperItem()
+        item = WalmartscraperItem()
+        item['id'] = id
         item['title'] = title
         item['price'] = price
         item['rating'] = rating
