@@ -18,6 +18,7 @@ class WalmartscraperItem(scrapy.Item):
     pass
 
 class AmazonscraperItem(scrapy.Item):
+    asin = scrapy.Field()
     title = scrapy.Field()
     price = scrapy.Field()
     rating = scrapy.Field()  
