@@ -9,7 +9,7 @@
 #     http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'AmazonScraper'
+BOT_NAME = 'WalmartScraper'
 
 SPIDER_MODULES = ['AmazonScraper.spiders']
 NEWSPIDER_MODULE = 'AmazonScraper.spiders'
@@ -19,7 +19,7 @@ NEWSPIDER_MODULE = 'AmazonScraper.spiders'
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
