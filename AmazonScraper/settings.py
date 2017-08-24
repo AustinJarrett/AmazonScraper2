@@ -90,7 +90,7 @@ HTTPCACHE_EXPIRATION_SECS = 300
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 # MongoDb Settings
-MONGODB_HOST = 'mongodb://mturner:Harvest2016@saecomm-shard-00-00-5ilbm.mongodb.net:27017,saecomm-shard-00-01-5ilbm.mongodb.net:27017,saecomm-shard-00-02-5ilbm.mongodb.net:27017/Walmart?ssl=true&replicaSet=saecomm-shard-0&authSource=admin'
+MONGODB_HOST = 'DatabaseString'
 MONGODB_PORT = 27017
 MONGODB_DATABASE = 'Walmart'
 MONGODB_COLLECTION='Walmart_Items'
